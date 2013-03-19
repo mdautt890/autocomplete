@@ -14,7 +14,8 @@ if (!$criterio) return;
 $productos = array(
 	"Tarjeta de red Wi-Fi" => 134.45,
 	"Tarjeta madre ECO" => 656.34,
-	"Ventilador Inteligente" => 24.56
+	"Ventilador Inteligente" => 24.56,
+	"Pantalla" => 126.33
 	);
 
 // lo que haremos es algo extremadamente sencillo, recuerda que este no es el objetivo del demo:
